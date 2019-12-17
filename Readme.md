@@ -2,6 +2,7 @@
 kubectl apply -f all-in-one.yaml
 kubectl apply -f elasticsearch.yaml -n elastic-system
 ```
+```
 elastic-operator-0                                         1/1     Running   0          104m
 elasticsearch-sample-es-data-0                             1/1     Running   0          55m
 elasticsearch-sample-es-data-1                             1/1     Running   0          55m
