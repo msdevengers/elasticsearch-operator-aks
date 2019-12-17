@@ -10,6 +10,7 @@ elasticsearch-sample-es-data-2                             1/1     Running   0  
 elasticsearch-sample-es-masters-0                          1/1     Running   0          55m
 
 ```
+```sh
 # make sure helm 1.16.1 is intalled
 helm version --short
 ```
